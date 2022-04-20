@@ -12,4 +12,7 @@ This project uses vanilla JavaScript along with Mapbox as a tool to view real ti
 5. Open the index.html file
 6. Right click and select 'Open Default browser' to open the project in your default browser.
 
+# Roadmap for Future Improvements
+Implement Real time tracking mechanism
+
 ![image](https://user-images.githubusercontent.com/33680240/163717215-ebb959d9-0c1d-4690-bbf4-782ecc2f7431.png)
